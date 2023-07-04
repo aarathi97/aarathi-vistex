@@ -19,5 +19,4 @@ _____________________
 
 ## **Background Of The Enterprise**
 
-![alt text](https://static.wixstatic.com/media/328f95_eb3c9779f9604f97a214838d1e5828e8~mv2.png/v1/fill/w_2500,h_1406,al_c/328f95_eb3c9779f9604f97a214838d1e5828e8~mv2.png)
-
+Vistex is a global software company founded in 1999 that specializes in revenue management solutions. With a focus on rights and royalties management, pricing and rebates, trade promotions, and incentive management, Vistex helps businesses optimize their revenue and incentive programs. The company offers a comprehensive suite of software products designed to streamline complex pricing processes, enhance contract management, and improve partner relationships. Serving a diverse range of industries, Vistex has established itself as a leader in revenue management, providing innovative solutions that enable businesses to drive growth, improve efficiency, and maximize profitability.
