@@ -19,4 +19,4 @@ _____________________
 
 ## **Background Of The Enterprise**
 
-![alt text](https://static.wixstatic.com/media/328f95_eb3c9779f9604f97a214838d1e5828e8~mv2.png/v1/fill/w_2500,h_1406,al_c/328f95_eb3c9779f9604f97a214838d1e5828e8~mv2.png)
+![alt text](https://www.g2.com/products/vistex-solutions-for-sap/reviews)
