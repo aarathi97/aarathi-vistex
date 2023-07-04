@@ -19,4 +19,4 @@ _____________________
 
 ## **Background Of The Enterprise**
 
-![alt text](https://r.search.yahoo.com/_ylt=AwrFPIpvHqRkXH8GinFXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZANBREVOR1QyXzEEc2VjA3Nj/RV=2/RE=1688506095/RO=10/RU=https%3a%2f%2fwww.tsia.com%2fconference-sponsors/RK=2/RS=9SKyGjn4.DEy8a6nvA6o2_nH.Ig-)
+![alt text](https://www.vistexcomposites.com/)
