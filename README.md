@@ -15,4 +15,4 @@ _____________________
 - Efficiency: Enterprise users can quickly launch apps without worrying about ongoing infrastructure costs or maintenance.
 - Security: Cloud providers invest heavily in advanced security measures, such as encryption, access controls, and regular data backups.
   
-![alt text](https://www.onlinemanipal.com/blogs/advantages-of-cloud-computing)
+![alt text](https://www.onlinemanipal.com/blogs/advantages-of-cloud-computing.png)
