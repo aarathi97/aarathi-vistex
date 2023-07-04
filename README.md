@@ -14,4 +14,5 @@ _____________________
 - Scalability: Cloud services give users the freedom to scale resources up or down in accordance with their organization's demands. As a result, there is no longer a need for large upfront hardware investments, and companies may only pay for what they really utilize.
 - Efficiency: Enterprise users can quickly launch apps without worrying about ongoing infrastructure costs or maintenance.
 - Security: Cloud providers invest heavily in advanced security measures, such as encryption, access controls, and regular data backups.
-![alt text](https://miro.medium.com/max/1400/1*vLNbKAWbGtFLC7tUBYb50A.png)
+  
+![alt text](https://www.onlinemanipal.com/blogs/advantages-of-cloud-computing)
