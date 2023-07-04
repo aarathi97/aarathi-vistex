@@ -17,7 +17,7 @@ _____________________
   
 ![alt text](https://www.onlinemanipal.com/wp-content/uploads/2022/09/BENEFITS-OF-CLOUD-COMPUTING--1024x889.png)
 
-## **Background Of The Enterprise
+## **Background Of The Enterprise**
 
 Vistex is a global software company founded in 1999 that specializes in revenue management solutions. With a focus on rights and royalties management, pricing and rebates, trade promotions, and incentive management, Vistex helps businesses optimize their revenue and incentive programs. The company offers a comprehensive suite of software products designed to streamline complex pricing processes, enhance contract management, and improve partner relationships. Serving a diverse range of industries, Vistex has established itself as a leader in revenue management, providing innovative solutions that enable businesses to drive growth, improve efficiency, and maximize profitability.
 
