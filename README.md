@@ -38,5 +38,6 @@ _________
 - Working remotely or away from the office.
 - Automated software updates.
 
--Data is stored locallay allowing greater control
--On-premises setups can often provide faster and more reliable performance 
+## Non cloud
+- Data is stored locally allowing greater control
+- On-premises setups can often provide faster and more reliable performance 
