@@ -40,7 +40,7 @@ _________
 
 ## Non cloud
 ____________
-- Data is stored locally allowing greater control
-- On-premises setups can often provide faster and more reliable performance
-- Lower cost of ownweship
-- Access to software does not rely on the internet connectivity or external factors
+- Data is stored locally allowing greater control.  
+- On-premises setups can often provide faster and more reliable performance.
+- Lower cost of ownweship.
+- Access to software does not rely on the internet connectivity or external factors.
