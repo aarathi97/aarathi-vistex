@@ -23,7 +23,7 @@ Vistex is a global software company founded in 1999 that specializes in revenue 
 
 ## *Current IT setup of Vistex*
 ______________________
-Vistex currently operates its system on an on-premises infrastructure.The company, Vistex , employs a team of 400 professionals who utilize programming languages such as PHP, HTML, and Java to develop their software applications.Vistex has adopted a private cloud environment and selected AWS as their preferred cloud service provider. By harnessing the capabilities of cloud virtual machine technologies, Vistex aims to enhance their software development processes, optimize resource utilization, and leverage the scalability and flexibility offered by AWS to meet their business needs effectively.
+Vistex currently operates its system on an on-premises infrastructure.The company, Vistex , employs a team of 400 professionals who utilize programming languages such as PHP, HTML, and Java to develop their software applications.Vistex has adopted a private cloud environment and selected Google as their preferred cloud service provider. By harnessing the capabilities of cloud virtual machine technologies, Vistex aims to enhance their software development processes, optimize resource utilization, and leverage the scalability and flexibility offered by AWS to meet their business needs effectively.
 
 ## *Contrast between cloud and non-cloud based solutions*
 
@@ -39,9 +39,10 @@ _________
 - Automated software updates.
 
 ## Non cloud
-one of the main
 ____________
 - Data is stored locally allowing greater control.  
 - On-premises setups can often provide faster and more reliable performance.
 - Lower cost of ownweship.
 - Access to software does not rely on the internet connectivity or external factors.
+
+  
