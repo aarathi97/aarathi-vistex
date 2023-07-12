@@ -39,6 +39,7 @@ _________
 - Automated software updates.
 
 ## Non cloud
+one of the main
 ____________
 - Data is stored locally allowing greater control.  
 - On-premises setups can often provide faster and more reliable performance.
