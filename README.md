@@ -4,7 +4,7 @@
 
 ![alt text](https://images.squarespace-cdn.com/content/v1/57328a2040261d70e702fd47/1493827378416-8TZS6DX19KQ3X9U9KC64/Organic+Bliss+No+Graphics-01.png?format=1500w).
 
-## **INTRODUCTION**
+## **Introduction**
 
  Managing major IT technical problems can be a daunting task for businesses.To prevent integration problems, security flaws, and the danger of cyber threats, current gear must be compatible with new technology.Fortunately, cloud computing provides a solution and offers SMEs an opportunity to regain control over their IT infrastructure.By embracing cloud computing, businesses can effectively address their IT needs while retaining full authority and control.
  
@@ -36,7 +36,7 @@ Organic Bliss has a user-friendly website that showcases their range of organic 
 
 ### Recommendation
 
-We recommend to migrate the website to a cloud-based hosting platform,potentillay on google to improve scalability, reliability, and performance. This will ensure consistent access and eliminate the need for managing dedicated servers.
+We recommend to migrate the website to a cloud-based hosting platform, potentially google to improve scalability, reliability, and performance. This will ensure consistent access and eliminate the need for managing dedicated servers.
 
 ### Inventory Management:
 
@@ -48,6 +48,9 @@ Move to cloud-based inventory management system like Zoho Inventory. It gives or
 
 ### Customer Relationship Management:
 
+Organic Bliss utilises its own homegrown CRM backend system to store, organize, and manage customer data.Since the customer are increasing there is a risk  of 
+
+## Recommendation
 
 ## Contrast between cloud and non-cloud based solutions
 
