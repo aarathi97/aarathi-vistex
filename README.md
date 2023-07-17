@@ -1,8 +1,8 @@
 # CA1-ASSIGNMENT-B9MG119
 
-### COMPANY CHOOSEN: VISTEX,INC.
+### COMPANY CHOOSEN: ORGANIC BLISS
 
-![alt text](https://cdn.contactcenterworld.com/images/company/vistex-largex5-logo.png)
+![alt text]()
 
 ## *Introduction*
 ________________
@@ -14,15 +14,24 @@ ________________
 - Efficiency: Enterprise users can quickly launch apps without worrying about ongoing infrastructure costs or maintenance.
 - Security: Cloud providers invest heavily in advanced security measures, such as encryption, access controls, and regular data backups.
   
-![alt text](https://www.onlinemanipal.com/wp-content/uploads/2022/09/BENEFITS-OF-CLOUD-COMPUTING--1024x889.png)
+![alt text]()
 
 ## *Background of the enterprise*
 
-Vistex is a global software company founded in 1999 that specializes in revenue management solutions. With a focus on rights and royalties management, pricing and rebates, trade promotions, and incentive management, Vistex helps businesses optimize their revenue and incentive programs. The company offers a comprehensive suite of software products designed to streamline complex pricing processes, enhance contract management, and improve partner relationships. Serving a diverse range of industries, Vistex has established itself as a leader in revenue management, providing innovative solutions that enable businesses to drive growth, improve efficiency, and maximize profitability.
+Organic Bliss is a small, eco-conscious company dedicated to providing high-quality organic produce to health-conscious individuals. Located in the serene countryside of County Cork, Ireland. They cultivates a wide variety of fresh, pesticide-free fruits and vegetables prioritizing soil health, employ eco-friendly techniques, and adhere to rigorous organic farming standards.. 
 
-## *Current IT setup of Vistex*
-______________________
-Vistex currently operates its system on an on-premises infrastructure.The company, Vistex , employs a team of 400 professionals who utilize programming languages such as PHP, HTML, and Java to develop their software applications.Vistex has adopted a private cloud environment and selected Google as their preferred cloud service provider. By harnessing the capabilities of cloud virtual machine technologies, Vistex aims to enhance their software development processes, optimize resource utilization, and leverage the scalability and flexibility offered by AWS to meet their business needs effectively.
+Focusing on making organic fruits and vegetables easily accessible and affordable to the people, Organic Bliss operates an online store that can be reached from the company website, where a significant amount of sales are being made.
+
+Organic Bliss currently operates on physical and online store. As there is a huge demand for the company products on the online patform among the customers they are now aiming to fully migrate to online store .With a team of 50 employees Bliss organic aims to become Ireland's biggest online eco friendly shoppping destination.
+
+## *Current IT setup and recommendations
+
+In this section, we'll examine the current IT infrastructure of Organic Bliss and also provide reasonable recommendations to enhance their IT infrastructure and optimize their online presence. By leveraging technology effectively, Organic Bliss can streamline operations, improve customer experiences, and support their commitment to sustainable agriculture.
+
+The areas of focus of this report will be Company website and online presence,Customer Relationship Management (CRM),Inventory Management.
+
+## *Company website and online presence:*
+
 
 ## *Contrast between cloud and non-cloud based solutions*
 
