@@ -30,11 +30,11 @@ In this section, we'll examine the current IT infrastructure of Organic Bliss an
 
 The areas of focus of this report will be Company website and online presence,Customer Relationship relationship management (CRM),Inventory Management.
 
-## *Company website and online presence:
+## Company website and online presence:
 
 Organic Bliss has a user-friendly website that showcases their range of organic produce. The website features an online ordering system, secure payment processing, and informative content related to organic farming practices. The site is hosted on a dedicated server that enables online shopping.The website is
 
-## *Recommendation
+## Recommendation
 
 We recommend to migrate the website to a cloud-based hosting platform,potentillay on google to improve scalability, reliability, and performance. This will ensure consistent access and eliminate the need for managing dedicated servers.
 
@@ -42,7 +42,7 @@ We recommend to migrate the website to a cloud-based hosting platform,potentilla
 
 Currently, Organic Bliss manages its inventory manually. To handle order fulfillment and track product stock levels, they keep paper-based records. This method, nevertheless, can be laborious and error-prone.
 
-## *Recommendation*
+## Recommendation
 
 Move to cloud-based inventory management system like Zoho Inventory. It gives organizations real-time insight into inventory levels, enabling them to keep track of product movements, monitor stock levels, and automate stock adjustments across several sales channels.
 
