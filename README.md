@@ -4,7 +4,7 @@
 
 ![alt text](https://images.squarespace-cdn.com/content/v1/57328a2040261d70e702fd47/1493827378416-8TZS6DX19KQ3X9U9KC64/Organic+Bliss+No+Graphics-01.png?format=1500w).
 
-## **Introduction**
+### *Introduction*
 ________________
  Managing major IT technical problems can be a daunting task for businesses.To prevent integration problems, security flaws, and the danger of cyber threats, current gear must be compatible with new technology.Fortunately, cloud computing provides a solution and offers SMEs an opportunity to regain control over their IT infrastructure.By embracing cloud computing, businesses can effectively address their IT needs while retaining full authority and control.
  
@@ -30,7 +30,7 @@ In this section, we'll examine the current IT infrastructure of Organic Bliss an
 
 The areas of focus of this report will be Company website and online presence,Customer Relationship relationship management (CRM),Inventory Management.
 
-## **Company website and online presence:**
+## *Company website and online presence:*
 
 Organic Bliss has a user-friendly website that showcases their range of organic produce. The website features an online ordering system, secure payment processing, and informative content related to organic farming practices. The site is hosted on a dedicated server that enables online shopping.The website is
 
