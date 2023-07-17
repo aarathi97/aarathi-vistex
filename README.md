@@ -2,7 +2,7 @@
 
 ### COMPANY CHOOSEN: ORGANIC BLISS
 
-![alt text]()
+![alt text](https://www.organicbliss.com/)
 
 ## *Introduction*
 ________________
