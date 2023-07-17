@@ -18,19 +18,35 @@ ________________
 
 ## *Background of the enterprise*
 
-Organic Bliss is a small, eco-conscious company dedicated to providing high-quality organic produce to health-conscious individuals. Located in the serene countryside of County Cork, Ireland. They cultivates a wide variety of fresh, pesticide-free fruits and vegetables prioritizing soil health, employ eco-friendly techniques, and adhere to rigorous organic farming standards.. 
+Organic Bliss is a small, eco-conscious company dedicated to providing high-quality organic produce to health-conscious individuals. Located in the serene countryside of County Cork, Ireland. They cultivate a wide variety of fresh, pesticide-free fruits and vegetables, prioritizing soil health, employ eco-friendly techniques, and adhere to rigorous organic farming standards.
 
-Focusing on making organic fruits and vegetables easily accessible and affordable to the people, Organic Bliss operates an online store that can be reached from the company website, where a significant amount of sales are being made.
+Focusing on making organic fruits and vegetables easily accessible and affordable to the public, Organic Bliss operates an online store that can be reached from the company website, where a significant amount of sales are being made.
 
-Organic Bliss currently operates on physical and online store. As there is a huge demand for the company products on the online patform among the customers they are now aiming to fully migrate to online store .With a team of 50 employees Bliss organic aims to become Ireland's biggest online eco friendly shoppping destination.
+Organic Bliss currently operates a physical and online store. As there is a huge demand for the company's products on the online platform among customers, they are now aiming to fully migrate to the online platform. With a team of 50 employees, Bliss Organic aims to become Ireland's biggest online eco friendly shopping destination.
 
 ## *Current IT setup and recommendations
 
 In this section, we'll examine the current IT infrastructure of Organic Bliss and also provide reasonable recommendations to enhance their IT infrastructure and optimize their online presence. By leveraging technology effectively, Organic Bliss can streamline operations, improve customer experiences, and support their commitment to sustainable agriculture.
 
-The areas of focus of this report will be Company website and online presence,Customer Relationship Management (CRM),Inventory Management.
+The areas of focus of this report will be Company website and online presence,Customer Relationship relationship management (CRM),Inventory Management.
 
-## *Company website and online presence:*
+## **Company website and online presence:**
+
+Organic Bliss has a user-friendly website that showcases their range of organic produce. The website features an online ordering system, secure payment processing, and informative content related to organic farming practices. The site is hosted on a dedicated server that enables online shopping.The website is
+
+## *Recommendation
+
+We recommend to migrate the website to a cloud-based hosting platform,potentillay on google to improve scalability, reliability, and performance. This will ensure consistent access and eliminate the need for managing dedicated servers.
+
+## **Inventory Management:**
+
+Currently, Organic Bliss manages its inventory manually. To handle order fulfillment and track product stock levels, they keep paper-based records. This method, nevertheless, can be laborious and error-prone.
+
+## *Recommendation
+
+Move to cloud-based inventory management system like Zoho Inventory. It gives organizations real-time insight into inventory levels, enabling them to keep track of product movements, monitor stock levels, and automate stock adjustments across several sales channels.
+
+## **Customer Relationship Management**:
 
 
 ## *Contrast between cloud and non-cloud based solutions*
