@@ -48,7 +48,7 @@ Move to cloud-based inventory management system like Zoho Inventory. It gives or
 
 ### Customer Relationship Management:
 
-Organic Bliss utilises its own homegrown CRM backend system to store, organize, and manage customer data.Things went well during the initial days as there were less number of customers.But the company's online business is growing currently and the homegrown CRM lack the ability to scale and accommodate a growing business.
+For the purpose of storing, managing, and organizing customer data, Organic Bliss has developed its own unique CRM backend system.Since there were fewer customers in the beginning, everything ran smoothly.However, the company's online business is expanding, and the in-house CRM is unable to scale and take into account a growing business.
 
 ## Recommendation
 
