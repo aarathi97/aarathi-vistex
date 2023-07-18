@@ -32,7 +32,7 @@ The areas of focus of this report will be Company website and online presence,Cu
 
 ### Company website and online presence:
 
-Organic Bliss has a user-friendly website that showcases their range of organic produce. The website features an online ordering system, secure payment processing, and informative content related to organic farming practices. The site is hosted on a dedicated server that enables online shopping.The website is
+Organic Bliss has a user-friendly website that showcases their range of organic produce. The website features an online ordering system, secure payment processing, and informative content related to organic farming practices. The site is hosted on a dedicated server that enables online shopping. It requires a dedicated IT team to maintain it and requires frequent manual updates.
 
 ### Recommendation
 
