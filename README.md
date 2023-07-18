@@ -78,3 +78,7 @@ ____________
 Smaller businesses like Organic Bliss are well-suited for embracing cloud services because of their flexibility and agility.In light of the particular circumstances, we advise Organic Bliss to develop a public cloud strategy.By embracing a cloud-first strategy, Boann Distillery can take advantage of the scalability, agility, and cost-efficiency offered by cloud services, empowering them to pursue their ambition of becoming a leading independent distillery and craft brewery in Ireland.
 
 ## Reference
+
+- AWS cloud service provider [ Amazon website ]:(https://aws.amazon.com/lightsail/?trk=d5254134-67ca-4a35-91cc-77868c97eedd&sc_channel=ps&s_kwcid=AL!4422!3!433803620861!e!!g!!amazon%20web%20services&ef_id=Cj0KCQiAm5ycBhCXARIsAPldzoUGMUjBli2h7_ntUjSaRiq-JjvJXTKEftMqgaGpDHDuTvkpkDr50bgaAjLMEALw_wcB:G:s&s_kwcid=AL!4422!3!433803620861!e!!g!!amazon%20web%20services)
+- Aws site:(https://aws.amazon.com/what-is-cloud-computing/)
+  
