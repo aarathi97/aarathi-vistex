@@ -52,7 +52,8 @@ For the purpose of storing, managing, and organizing customer data, Organic Blis
 
 ### Recommendation
 
-Moving the homegrown CRM to a cloud based CRM like salesforce 
+Moving the homegrown CRM to a cloud based CRM like Salesforce to seamlessly accommodate increased data volumes, user counts, and customization needs. Salesforce enables easy interaction with a range of third-party programs, including e-commerce platforms, customer care systems, and marketing automation tools. The small business may improve data consistency, optimize procedures, and foster better departmental communication thanks to this integration feature.
+
 ## Contrast between cloud and non-cloud based solutions
 
 The services that the cloud vendor offers will always have an impact on the deployment architecture of a cloud-ready application. The choice of cloud services becomes even more crucial for an application that must operate under strict compliance and data residency restrictions.
