@@ -52,7 +52,7 @@ For the purpose of storing, managing, and organizing customer data, Organic Blis
 
 ### Recommendation
 
-
+Moving the homegrown CRM to a cloud based CRM like salesforce 
 ## Contrast between cloud and non-cloud based solutions
 
 The services that the cloud vendor offers will always have an impact on the deployment architecture of a cloud-ready application. The choice of cloud services becomes even more crucial for an application that must operate under strict compliance and data residency restrictions.
