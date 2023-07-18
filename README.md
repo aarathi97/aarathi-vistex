@@ -36,7 +36,7 @@ Organic Bliss has a user-friendly website that showcases their range of organic 
 
 ### Recommendation
 
-We recommend to migrate the website to a cloud-based hosting platform, potentially google to improve scalability, reliability, and performance. This will ensure consistent access and eliminate the need for managing dedicated servers.
+We recommend migrating the website to a cloud-based hosting platform, potentially google to improve scalability, reliability, and performance. This will ensure consistent access and eliminate the need for managing dedicated servers.
 
 ### Inventory Management:
 
@@ -44,13 +44,14 @@ Currently, Organic Bliss manages its inventory manually. To handle order fulfill
 
 ### Recommendation
 
-Move to cloud-based inventory management system like Zoho Inventory. It gives organizations real-time insight into inventory levels, enabling them to keep track of product movements, monitor stock levels, and automate stock adjustments across several sales channels.
+Move to a cloud-based inventory management system like Zoho Inventory. It gives organizations real-time insight into inventory levels, enabling them to keep track of product movements, monitor stock levels, and automate stock adjustments across several sales channels.
 
 ### Customer Relationship Management:
 
 For the purpose of storing, managing, and organizing customer data, Organic Bliss has developed its own unique CRM backend system.Since there were fewer customers in the beginning, everything ran smoothly.However, the company's online business is expanding, and the in-house CRM is unable to scale and take into account a growing business.
 
-## Recommendation
+### Recommendation
+
 
 ## Contrast between cloud and non-cloud based solutions
 
